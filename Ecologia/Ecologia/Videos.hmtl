@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="es">
+ <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="William Rivera Reyes">
+    <meta name="date" content="03/03/2023">
+    <meta name="description" content="mis videos favoritos">
+    <meta name="keywords" content="video, iframe, web, html">
+    <title>Videos Favoritos</title>
+ </head>
+ <body>
+    <h1>Mis 7 videos favoritos de YT</h1>
+
+    <h2>1. Kaizo Trap</h2>
+    <p>Este video me gusta porque narra una historia de amor, en el 
+        que una chica rescata a su novio de una consola de videojuegos.
+        El video es divertido, tiene mucha acción y la musiquita está 
+        cool.
+    </p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lIES3ii-IOg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+    <h2>2. Vista "Sight"</h2>
+    <p> Este cortometraje es de mis favoritos, pues nos muestra los 
+        riesgos que se tienen con las nuevas teconologías y la ética
+        de algunos ingenieros que pudieras sacar provecho de sus 
+        habilidades para romper las reglas.
+    </p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lK_cdkpazjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ </body>
+</html>
